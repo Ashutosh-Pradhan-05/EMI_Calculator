@@ -1,0 +1,16 @@
+body{
+    background-image: url("./EMI_bg_banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+    .form-label {
+        font-size: 0.9rem;
+    }
+
+    input[type="text"] {
+        font-size: 0.9rem;
+    }
+}
